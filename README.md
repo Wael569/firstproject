@@ -1,2 +1,2 @@
 # firstproject
-no desc
+no desc nox disc
